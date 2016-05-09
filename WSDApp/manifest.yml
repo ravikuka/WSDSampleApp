@@ -1,0 +1,8 @@
+applications:
+- name: WSDApp
+  host: WSDApp
+  disk: 1024M
+  path: WSDApp.war
+  domain: mybluemix.net
+  memory: 512M
+  instances: 1
